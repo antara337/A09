@@ -49,7 +49,7 @@ header img {
 /* the styles for the navigation menu */
 
 #nav_menu ul{
-	list-style-type: none; /*removes the bullet points in unordered list*/
+	list-style: none; /*removes the bullet points in unordered list*/
 	margin: 0 0;
 	padding: 0 0;
 	position: relative;
