@@ -70,10 +70,6 @@ header img {
 	font-weight: bold;
 }
 
-#nav_menu .current {
-	color: yellow;
-}
-
 #nav_menu ul ul{
 	display: none;
 	position: absolute;
